@@ -1,0 +1,11 @@
+{
+  "name": "study-solidity-applications",
+  "version": "1.0.0",
+  "repository": "git@github_private:sunrui1996/study-solidity-applications.git",
+  "author": "sunrui1996 <183428323@qq.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
